@@ -1,4 +1,5 @@
-# Jogo de Adivinhação Em Java
+# Adivinhator
+## Jogo de Adivinhação Em Java
 
 Jogo de adivinhação de jogadores da seleção brasileira
 
